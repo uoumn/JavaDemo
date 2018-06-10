@@ -24,3 +24,7 @@ public class PrimeNumber{
     System.out.println("质数个数：" + y);
   }
 }
+
+// ...
+//123
+// - - - -
